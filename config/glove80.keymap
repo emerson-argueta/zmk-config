@@ -16,7 +16,7 @@
 #define X_RB    &kp RSHIFT
 
 #define X_LH    &none &kp LCTRL &kp LALT &kp LGUI &kp TILDE 
-#define X_MH    &none &none
+#define X_MH    &kp LGUI &kp RGUI
 #define X_RH    &kp LBKT &kp RBKT &kp RALT &kp RCTRL &kp F13
 
 /* activate bluetooth */
