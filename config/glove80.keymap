@@ -12,12 +12,12 @@
 #define X_RM    &kp SQT
 
 #define X_LB    &kp LSHIFT
-#define X_MB    &none &none &none       &none &none &none
+#define X_MB    &none &smart_mouse &none       &none &none &kp TILDE
 #define X_RB    &kp RSHIFT
 
-#define X_LH    &none &kp LCTRL &kp LALT &kp LGUI &kp TILDE 
+#define X_LH    &none &kp LCTRL &kp LALT &kp LGUI &kp LBKT 
 #define X_MH    &kp LGUI &kp RGUI
-#define X_RH    &kp LBKT &kp RBKT &kp RALT &kp RCTRL &kp F13
+#define X_RH    &kp RBKT &kp RGUI &kp RALT &kp RCTRL &kp F13
 
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
