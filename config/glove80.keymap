@@ -1,5 +1,6 @@
 /* source keypos definitions */
 #include "../zmk-nodefree-config/keypos_def/keypos_glv80.h"
+#define NAV 1
 
 /* map the Glove's extra keys */
 #define X_LT  \
