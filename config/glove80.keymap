@@ -13,7 +13,7 @@
 #define X_RM    &kp SQT
 
 #define X_LB    &kp LSHIFT
-#define X_MB    &lt NAV &smart_mouse &none       &none &none &kp GRAVE
+#define X_MB    &mo NAV &smart_mouse &kp ESC   &kp ESC &none &kp GRAVE
 #define X_RB    &kp RSHIFT
 
 #define X_LH    &none &kp LCTRL &kp LALT &kp LGUI &kp LBKT 
